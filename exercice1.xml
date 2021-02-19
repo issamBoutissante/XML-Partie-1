@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="./exercice1.css" type="text/css"?>
+
+<institut>
+  <titre>Repartition des stagiaires par classe</titre>
+  <collumns>
+    <collumn>Branch</collumn>
+    <collumn>Class</collumn>
+    <collumn>nombre d'eleves</collumn>
+  </collumns>
+  <branche>
+    <nom>Developpement</nom>
+    <class>TDI1</class>
+    <nb_eleve>32</nb_eleve>
+  </branche>
+  <branche>
+    <nom>Developpement</nom>
+    <class>TDI1</class>
+    <nb_eleve>16</nb_eleve>
+  </branche> <branche>
+    <nom>Developpement</nom>
+    <class>TDI2</class>
+    <nb_eleve>32</nb_eleve>
+  </branche> <branche>
+    <nom>Developpement</nom>
+    <class>TDI3</class>
+    <nb_eleve>14</nb_eleve>
+  </branche> <branche>
+    <nom>Gestion</nom>
+    <class>GE1</class>
+    <nb_eleve>36</nb_eleve>
+  </branche> <branche>
+   </branche> <branche>
+    <nom>Gestion</nom>
+    <class>GE1</class>
+    <nb_eleve>20</nb_eleve>
+  </branche> <branche> </branche> <branche>
+    <nom>Gestion</nom>
+    <class>GE1</class>
+    <nb_eleve>18</nb_eleve>
+  </branche>
+</institut>

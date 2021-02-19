@@ -1,0 +1,35 @@
+titre {
+  display: table-caption;
+  text-align: center;
+  font-size: 20px;
+  border: 1px solid black;
+  padding: 5px;
+  margin: 2px;
+}
+institut {
+  display: table;
+  border: 1px solid black;
+  border-spacing: 3px;
+}
+branche {
+  display: table-row;
+}
+nom,
+class,
+nb_eleve {
+  display: table-cell;
+  border: 1px solid black;
+  width: 200px;
+  padding: 5px;
+  text-align: center;
+}
+collumns {
+  display: table-row;
+}
+collumn {
+  display: table-cell;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  border: 1px solid black;
+}

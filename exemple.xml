@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<biblio>
+  <livre>
+    <!-- Element enfant titre -->
+    <titre>Les Meiserable</titre>
+    <auteur>Les Meiserable</auteur>
+    <nb_tomes>Les Meiserable</nb_tomes>
+  </livre>
+  <livre>
+    <!-- Element enfant titre -->
+    <titre>L'Assommoir</titre>
+    <auteur>Emile Zola</auteur>
+    <couverture couleur="rouge"/>
+  </livre>
+  <livre>
+    <!-- Element enfant titre -->
+    <titre lang="en">David Copperfield</titre>
+    <auteur>Charles Dickens</auteur>
+    <nb_tomes>3</nb_tomes>
+  </livre>
+</biblio>
